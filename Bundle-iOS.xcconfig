@@ -1,5 +1,5 @@
 
-#include "../../ThirdParty/repository/xcconfigs/iOS/iOS-Base.xcconfig"
+#include "xcconfigs/iOS/iOS-Base.xcconfig"
 #include "Base-iOS.xcconfig"
 #include "Bundle.xcconfig"
 
